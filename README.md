@@ -4,7 +4,7 @@
     <img alt="Microchip Logo." src="images/microchip_logo_black_red.png">
 </picture> 
 
-## %repoDescritpion%
+## sip dev board 33cdv256mc506 pmsm an1292 an1299 foc pll
 
 Board Image if any.
 
